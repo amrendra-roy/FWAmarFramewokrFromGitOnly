@@ -9,8 +9,13 @@ import Foundation
 
 public class TestFileInFramework {
    
+    public init() {}
     
     public func testMethodFromFramework() {
+        print("A test framework which I will keep only at Git not in local, and will try to use POD with git repo path.")
+    }
+    
+    public func testAnotherMethodFromFramework() {
         print("A test framework which I will keep only at Git not in local, and will try to use POD with git repo path.")
     }
 }
