@@ -18,4 +18,8 @@ public class TestFileInFramework {
     public func testAnotherMethodFromFramework() {
         print("A test framework which I will keep only at Git not in local, and will try to use POD with git repo path.")
     }
+    
+    public func testingVersionTag012() {
+        print("version number 0.1.2")
+    }
 }
