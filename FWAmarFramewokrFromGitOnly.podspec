@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'FWAmarFramewokrFromGitOnly'
-  s.version          = '0.1.2'
+  s.version          = '0.1.3'
   s.summary          = 'A test framework which I will keep only at Git not in local, and will try to use in SampleApp'
 
 # This description is used to generate tags and improve search results.
